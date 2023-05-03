@@ -16,6 +16,7 @@ During this project, I learned how to use sockets to communicate with clients ov
 ## Prerequisites
 
 <h2>Weechat</h2>
+<div style="display" align="center">
 <img src="./rscs/WeeChat.png" width="20%">
 </div>
 To use the server you must use WeeChat.
@@ -77,3 +78,6 @@ weechat
 ````bash
 /connect myserver
 ````
+
+## Credit
+This two-person project was done with [Louis ❤️ ](https://github.com/spiritamere)
