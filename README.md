@@ -80,4 +80,4 @@ weechat
 ````
 
 ## Credit
-This two-person project was done with [Louis ❤️ ](https://github.com/spiritamere)
+This two-person project was done with [Louis ❤️ ](https://github.com/ljourand)
